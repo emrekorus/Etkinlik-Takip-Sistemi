@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024403196975",
+    "firebase_url": "https://etkinlik-takip-sistemi-6fd54.firebaseio.com",
+    "project_id": "etkinlik-takip-sistemi-6fd54",
+    "storage_bucket": "etkinlik-takip-sistemi-6fd54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024403196975:android:2bebabd818ecc035520ada",
+        "android_client_info": {
+          "package_name": "com.example.etkinliktakipsystemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024403196975-5jfb429pok7narmfubiosl7m10t5shcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7B9wDvD-GrMjgLm8JTQncEYIzoAJIvpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024403196975-5jfb429pok7narmfubiosl7m10t5shcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
